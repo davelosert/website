@@ -1,0 +1,16 @@
+{
+  "name": "David Losert",
+  "company": "virtual-identity.com",
+  "tags": [ "es6", "react", "angular2", "clean code", "craftsmanship", "ood", "tdd" ],
+  "when": {
+    "saturday": true,
+    "sunday": true 
+  },
+  "what_is_my_connection_to_javascript": "I am a Javascript Developer since almost 3 years. Started as NodeJS Developer and then moved more to the functional frontend with Angular and now Angular2. I'm trying to connect backend practices (OOD), clean code and craftmansship with the frontend ever since.",
+  "urls": {
+    "photo": "https://avatars1.githubusercontent.com/u/4287128?v=3&s=460",
+    "homepage": "",
+    "github": "https://github.com/davelosert",
+    "twitter": "https://twitter.com/david_losert"
+  }
+}
